@@ -1,0 +1,18 @@
+th {
+	width: 60%;
+	border-top: 1px solid black;
+	text-align: left;
+	font-size: 130%;
+	text-decoration: underline;
+	color: #F2A843;
+	padding-top: 10px;
+}
+.car{
+	padding-bottom: 10px;
+}
+.Enunciado {
+	font-weight: bold;
+}
+footer {
+	margin-top: 1%;
+}

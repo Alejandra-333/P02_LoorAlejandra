@@ -1,0 +1,9 @@
+h2 {
+    color: blue;
+    float: left;
+}
+h3, ul, ol {
+    padding-left: 3%;
+    text-align: left;
+    padding-top: 5%;
+}
