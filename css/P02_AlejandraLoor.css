@@ -33,10 +33,11 @@ body {
   color: #66ff99;
 }
 
-.main {
-  padding: 40px;
-  margin-top: 40px;
-  height: 40px;
+main {
+  width: 60%;
+  float: right;
+  margin-right: 7%;
+  padding: 20px;
 }
 
 footer {
@@ -77,3 +78,4 @@ header {
   margin-top: 10px;
   text-align: center;
 }
+

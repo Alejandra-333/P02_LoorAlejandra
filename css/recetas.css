@@ -1,9 +1,15 @@
 h2 {
     color: blue;
-    float: left;
 }
-h3, ul, ol {
-    padding-left: 3%;
+h3 {
     text-align: left;
-    padding-top: 5%;
+}
+
+ul, ol {
+    margin-bottom: 2%;
+    text-align: left;
+}
+img {
+    width: 20%;
+    height: 25%;
 }
